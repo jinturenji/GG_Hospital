@@ -22,6 +22,6 @@ The page has the following contents included:
    
 
 
-![ScreenShot](/GG/images/GG_Hospital_Output.png)
+![ScreenShot](/GG/GG_Hospital_Output.png)
 
 
