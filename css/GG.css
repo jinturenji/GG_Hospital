@@ -1,0 +1,141 @@
+.page{
+  margin-top: 100px;
+}
+.left-arrow{
+    opacity: 20%;
+}
+
+.contacts-top{
+    width: 1920px;
+    height: 52px;
+
+}
+.active{
+    text-decoration: none;
+    color: black;
+}
+.navbar a:hover{
+    color:red;
+    text-decoration: none;
+
+}
+.home-image{
+    position: relative;
+    width: 95vw;
+    
+}
+.home-image-text{
+    position: absolute;
+    top:75%;
+
+
+
+}
+
+.book-appointment{
+    position: absolute;
+    top:125%;
+    left:9%;
+    width:70%;
+    height:225px;
+    border-radius: 20px;
+    background-color: white;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.upper-book{
+    margin: 20px;
+    display:flex;
+}
+.full-name{
+    flex:1;
+}
+.phno{
+    flex:1;
+}
+.date{
+    flex:1;
+}
+.lower-book{
+    margin: 20px;
+  display: flex;   
+}
+
+.department{
+    flex:1;
+}
+.doctor{
+    flex:1;
+}
+.button-div{
+    flex:1;
+
+}
+.button{
+    background-color: green; 
+    border:none ; 
+    color:white; 
+    width: 190px;
+    height: 30px;
+    padding: 3px;
+    font-size: 10px;
+}
+
+.our-department-page{
+    margin-top: 100px;
+}
+
+.why-gg-img{
+    margin-top: 100px;
+    padding: 10px;
+    position: relative;
+    border: 1.5px;
+    border-color: #17C1A3;
+    background-color: #e6eefb;
+
+}
+.why-gg-text{
+    position: absolute;
+    left:80%;
+    top:290%;
+
+}
+.meet-our-specialist-page{
+    margin-top: 100px;
+
+}
+.meet-our-specialist-title{
+    text-align: center;
+}
+.view-all{
+    background-color: #17C1A3;
+    color: white;
+    position: absolute;
+    left:47.5%
+}
+.newsletter-body-tittle{
+    position: absolute;
+    top: 700%;
+    left:10%;
+}
+.subscribe-button{
+    
+    background-color: #17C1A3; 
+    color: white;
+    border: none;
+    font-size: 16px;
+
+   
+}
+.newsletter-body-email{
+    position: absolute;
+    top:705%;
+    left:50%; 
+
+}
+.footer-end{
+    position: absolute;
+    left: 40%;
+}
